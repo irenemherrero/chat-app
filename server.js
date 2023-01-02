@@ -1,4 +1,4 @@
-const CLIENT_PORT = "http://127.0.0.1:5500" 
+const CLIENT_PORT = "http://127.0.0.1:8080" 
 const CONNECTED_USER_MESSAGE = 'User connected'
 const DISCONNECTED_USER_MESSAGE = 'User connected'
 
